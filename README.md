@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vorago24
 - 👀 I’m interested in Full Stack Web Development, Gaming, and Music Production.
 - 🌱 I’m currently learning Javascript and misc Full Stack Web Development languages and disciplines.
-- 💞️ I’m looking to collaborate on creating mock websites to create a portfolio reflecting my Full Stack Web Development skills.
+- 💞️ I’m looking to collaborate on projects utilizing react to create a portfolio reflecting my Full Stack Web Development skills.
 - 📫 How to reach me Naberius@Naberius.org
 
 <!---
